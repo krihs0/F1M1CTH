@@ -1,6 +1,6 @@
 ### before
 
-![before] (e259cf6b291f298cdc9687f6b1093955.png)
+![before](e259cf6b291f298cdc9687f6b1093955.png)
 
 ### after
 
