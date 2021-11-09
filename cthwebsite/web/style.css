@@ -7,5 +7,21 @@ body{
     background-color: yellow;
     color: black;
     width: 400px;
-    height: 200px;
+    height: 250px;
+}
+
+.menu{
+    background-color: cornflowerblue;
+    color: cornsilk;
+
+
+}
+
+.back img{
+    max-width: 50px;
+    height: auto;
+}
+
+.fun-h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
